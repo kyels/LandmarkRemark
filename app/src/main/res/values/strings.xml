@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Landmark</string>
+    <string name="title_activity_main">Discover Remarks</string>
+    <string name="title_activity_remark">Post a Remark</string>
+    <string name="title_sign_out">Sign Out</string>
+    <string name="title_search">Search</string>
+    <string name="title_my_remarks">My Remarks</string>
+    <string name="auth_button">Sign in</string>
+    <string name="unknown_response">Unknown Error</string>
+    <string name="sign_in_cancelled">Sign in cancelled</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="title_locate">Locate Me</string>
+    <string name="tag_place_id">PlaceId</string>
+    <string name="new_landmark">New Landmark</string>
+    <string name="name_of_landmark">Name of Landmark</string>
+    <string name="write_your_remark">Write your remark</string>
+    <string name="alert_dialog_remark">Post Remark?</string>
+    <string name="alert_dialog_ok">Post</string>
+    <string name="alert_dialog_cancel">Cancel</string>
+    <string name="tag_lat_lng">Latitude and Longitude</string>
+    <string name="tag_place_name">Place Name</string>
+    <string name="error_no_remark">Nothing to say?</string>
+    <string name="location_provider_name_default">Default</string>
+    <string name="algolia_application_id">OLTVN91YCE</string>
+    <string name="algolia_search_only_api_key">e0053e35ddbe44bbbfaaf8a0e41941bc</string>
+</resources>

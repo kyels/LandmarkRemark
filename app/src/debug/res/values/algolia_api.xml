@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- For using with searching via Algolia -->
+
+    <string name="algolia_application_id">OLTVN91YCE</string>
+
+    <string name="algolia_search_only_api_key">e0053e35ddbe44bbbfaaf8a0e41941bc</string>
+
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "903953696753",
+    "firebase_url": "https://mineral-circlet-183802.firebaseio.com",
+    "project_id": "mineral-circlet-183802",
+    "storage_bucket": "mineral-circlet-183802.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903953696753:android:d6ad2a58d3d3138d",
+        "android_client_info": {
+          "package_name": "com.test.landmark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903953696753-ogk8lnf9hm67pv9epdmq2o21v3slb9kc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.landmark",
+            "certificate_hash": "30be682772b24f166e262eac3231032bb078dfd2"
+          }
+        },
+        {
+          "client_id": "903953696753-eerkkrdhlu2bq0t7k9s4n4nle83d8g6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7LyqhKdFueN19t27zq0pW-6DmzOrybWs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903953696753-eerkkrdhlu2bq0t7k9s4n4nle83d8g6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
