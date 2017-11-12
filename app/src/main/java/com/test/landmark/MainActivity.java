@@ -105,7 +105,7 @@ public class MainActivity extends AppCompatActivity implements
         Client client = new Client(getString(R.string.algolia_application_id), getString(R.string.algolia_search_only_api_key));
         algoliaIndex = client.getIndex("remarks");
 
-        // Configure search input area checks and action
+        // Configure search input validation and action
         final EditText searchText = (EditText) findViewById(R.id.searchText);
         searchText.setOnEditorActionListener(new TextView.OnEditorActionListener() {
             @Override
@@ -189,7 +189,7 @@ public class MainActivity extends AppCompatActivity implements
         // Handle item selection
         switch (item.getItemId()) {
             case R.id.navigation_my_remarks:
-                // TODO show pins with my remarks
+                // TODO show only landmarks with users' remarks
                 return true;
             case R.id.navigation_sign_out:
                 AuthUI.getInstance()
@@ -392,6 +392,6 @@ public class MainActivity extends AppCompatActivity implements
 
     @Override
     public void onInfoWindowClick(Marker marker) {
-        // TODO Show additional remarks
+        // TODO Show additional remarks for landmark
     }
 }
